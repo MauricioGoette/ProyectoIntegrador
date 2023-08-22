@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  postgresql:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1988
+      POSTGRES_DB: IntegralDW
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./IntegralDW.sql:/docker-entrypoint-initdb.d/IntegralDW.sql  # Mount the IntegralDW.sql file as a volume
+    ports:
+      - "5433:5432"
+
+  pdi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - postgresql
+    volumes:
+      - /opt/pentaho/data-integration/
+    command: /entrypoint.sh
+    ports:
+      - "8080:8080"
+    mem_limit: "4g"  # Change "2g" to the desired memory limit (e.g., "1g" for 1GB)
+
+volumes:
+  pgdata:  
+
