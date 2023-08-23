@@ -60,3 +60,26 @@
   - [Business Intelligence](#business-intelligence)
   - [Datawarehouse](#datawarehouse-2)
   - [Dashboard](#dashboard-2)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/4ae4a633-3bfc-4549-a8a5-e9cdd781c129)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/8f028dac-594f-4ac2-9c46-a5efda993480)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/5c7d8755-3446-4fe7-aeeb-c84965aa8ade)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/b45f4a3a-0879-42c5-9cfe-15350ee9e3a9)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/e1b8564e-681f-4a69-a24e-2a5a8928fbc9)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/a19c8fce-2515-483a-81f0-642036c8ae82)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/50e33500-3643-4e3a-a7db-8cd40d26e970)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/a0e29843-1e34-4030-99aa-565dcf3aaa96)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/38da3d0d-f029-4c91-9a12-c060a1db7ed6)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/bb66847a-56da-41fa-b9c4-fed9d7eb2a5a)
+
+https://app.powerbi.com/reportEmbed?reportId=d5afc21d-af61-4620-ac29-6fc0e23e8e47&autoAuth=true&ctid=583d1b29-a65e-46bc-be09-3f602a9ed6c6
+
+
+
+
+
+
+
+
+
