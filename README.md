@@ -73,7 +73,6 @@
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/38da3d0d-f029-4c91-9a12-c060a1db7ed6)
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/bb66847a-56da-41fa-b9c4-fed9d7eb2a5a)
 
-https://app.powerbi.com/reportEmbed?reportId=d5afc21d-af61-4620-ac29-6fc0e23e8e47&autoAuth=true&ctid=583d1b29-a65e-46bc-be09-3f602a9ed6c6
 
 Dashboard Interactivo [aquí](https://app.powerbi.com/reportEmbed?reportId=d5afc21d-af61-4620-ac29-6fc0e23e8e47&autoAuth=true&ctid=583d1b29-a65e-46bc-be09-3f602a9ed6c6).
 
