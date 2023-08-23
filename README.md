@@ -3,10 +3,9 @@
 ## Como optimizar y beneficiarse de los datos de una mutual a través de un proceso de Business Intelligence
 
 # Índice
-Introducción
+1Introducción
 
 Marco teórico
-
  Fuente de Datos
  Selección, limpieza y transformación
  Bases de datos relacionales
