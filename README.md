@@ -4,7 +4,7 @@
 
 # Índice
 1. Introducción
-Marco teórico
+2. Marco teórico
  Fuente de Datos
  Selección, limpieza y transformación
  Bases de datos relacionales
