@@ -75,6 +75,9 @@
 
 https://app.powerbi.com/reportEmbed?reportId=d5afc21d-af61-4620-ac29-6fc0e23e8e47&autoAuth=true&ctid=583d1b29-a65e-46bc-be09-3f602a9ed6c6
 
+Dashboard Interactivo [aquí](https://app.powerbi.com/reportEmbed?reportId=d5afc21d-af61-4620-ac29-6fc0e23e8e47&autoAuth=true&ctid=583d1b29-a65e-46bc-be09-3f602a9ed6c6).
+
+
 
 
 
