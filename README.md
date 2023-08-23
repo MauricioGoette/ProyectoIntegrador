@@ -4,7 +4,7 @@
 
 # Índice
 1. Introducción
-2. Marco teórico
+3. Marco teórico
 2.1 Fuente de Datos
 2.2 Selección, limpieza y transformación
 2.3 Bases de datos relacionales
@@ -19,7 +19,7 @@
   Analizar la homogeneidad de los datos y detectar incongruencias, datos faltantes o erróneos:
   Generar gráficos adecuados a las variables de interés:
 
-3. Metodología - Desarrollo
+6. Metodología - Desarrollo
 3.1 Obtención de Datos
 3.1.1  Variables del dataset
 
