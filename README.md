@@ -6,6 +6,7 @@
 Introducción
 
 Marco teórico
+
  Fuente de Datos
  Selección, limpieza y transformación
  Bases de datos relacionales
@@ -16,9 +17,9 @@ Marco teórico
  Métricas e Indicadores (KPI)
  Dashboard
  Objetivos
-  1. Seleccionar variables e indicadores de interés para cada cliente:
-  2. Analizar la homogeneidad de los datos y detectar incongruencias, datos faltantes o erróneos:
-  3. Generar gráficos adecuados a las variables de interés:
+  Seleccionar variables e indicadores de interés para cada cliente:
+  Analizar la homogeneidad de los datos y detectar incongruencias, datos faltantes o erróneos:
+  Generar gráficos adecuados a las variables de interés:
 
 Metodología - Desarrollo
  Obtención de Datos
