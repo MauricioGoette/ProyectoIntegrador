@@ -2,7 +2,7 @@
  
 ## Como optimizar y beneficiarse de los datos de una mutual a través de un proceso de Business Intelligence
 
-# Índice
+# Índice (ProyectoIntegrador.pdf)
 
 - [Introducción](#introducción)
 - [Marco teórico](#marco-teórico)
