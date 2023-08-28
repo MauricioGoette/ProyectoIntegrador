@@ -66,12 +66,19 @@
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/5c7d8755-3446-4fe7-aeeb-c84965aa8ade)
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/b45f4a3a-0879-42c5-9cfe-15350ee9e3a9)
 
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/e1b8564e-681f-4a69-a24e-2a5a8928fbc9)
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/a19c8fce-2515-483a-81f0-642036c8ae82)
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/50e33500-3643-4e3a-a7db-8cd40d26e970)
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/a0e29843-1e34-4030-99aa-565dcf3aaa96)
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/38da3d0d-f029-4c91-9a12-c060a1db7ed6)
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/bb66847a-56da-41fa-b9c4-fed9d7eb2a5a)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/57b1290f-c264-4ba0-bedb-017e9b9805c2)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/574c4cd7-80fb-444d-82fc-0926e45564e2)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/2cde86fa-86e5-4ad7-87d3-b49cdf75ec52)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/047c0237-7880-4f6f-a14f-836b94e6acc9)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/ac9c2d59-ac14-48c6-9964-a1ec1632ddf6)
+
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/9be9f176-ba6a-44a4-8add-845dbba5b656)
+
 
 
 Dashboard Interactivo [aquí](https://app.powerbi.com/reportEmbed?reportId=d5afc21d-af61-4620-ac29-6fc0e23e8e47&autoAuth=true&ctid=583d1b29-a65e-46bc-be09-3f602a9ed6c6).
