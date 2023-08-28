@@ -62,13 +62,15 @@
   - [Dashboard](#dashboard-2)
 
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/4ae4a633-3bfc-4549-a8a5-e9cdd781c129)
+
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/8f028dac-594f-4ac2-9c46-a5efda993480)
+
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/5c7d8755-3446-4fe7-aeeb-c84965aa8ade)
+
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/b45f4a3a-0879-42c5-9cfe-15350ee9e3a9)
 
 
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/72a1171e-9d45-40bf-a4ac-9da208840516)
-
 
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/574c4cd7-80fb-444d-82fc-0926e45564e2)
 
