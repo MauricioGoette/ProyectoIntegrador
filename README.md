@@ -67,7 +67,8 @@
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/b45f4a3a-0879-42c5-9cfe-15350ee9e3a9)
 
 
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/57b1290f-c264-4ba0-bedb-017e9b9805c2)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/72a1171e-9d45-40bf-a4ac-9da208840516)
+
 
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/574c4cd7-80fb-444d-82fc-0926e45564e2)
 
