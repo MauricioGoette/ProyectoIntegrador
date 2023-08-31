@@ -61,13 +61,15 @@
   - [Datawarehouse](#datawarehouse-2)
   - [Dashboard](#dashboard-2)
 
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/4ae4a633-3bfc-4549-a8a5-e9cdd781c129)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/8e8e3239-d6fc-4cd2-8afa-34575a550b37)
 
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/8f028dac-594f-4ac2-9c46-a5efda993480)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/729ecd4e-a5b4-45da-8ef6-cb2fa19cec9a)
 
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/5c7d8755-3446-4fe7-aeeb-c84965aa8ade)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/6330a562-81fc-4009-b241-8990abbd5bab)
 
-![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/b45f4a3a-0879-42c5-9cfe-15350ee9e3a9)
+![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/ee43d18f-eddd-4a94-be4e-177e4f88c81f)
+
+
 
 
 ![imagen](https://github.com/MauricioGoette/ProyectoIntegrador/assets/142920755/72a1171e-9d45-40bf-a4ac-9da208840516)
